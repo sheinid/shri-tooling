@@ -50,10 +50,9 @@
 
   ![alt text](image-13.png)
 
-- Load - 905ms, 1448ms
+- Load - 1448ms
 
   ![alt text](image-14.png)
-  ![alt text](image-15.png)
 
 DOM-элемент, на котором происходит LCP:
 
